@@ -2,7 +2,7 @@
   "name": "ignite-typescript",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Dillon <dillon_patrick@outlook.com>",
+  "author": "Dillon Patrick <dillon_patrick@outlook.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
